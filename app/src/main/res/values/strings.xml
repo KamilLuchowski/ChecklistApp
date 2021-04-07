@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Checklist</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_task_details">TaskDetails</string>
+    <string name="is_it_done">Is it done?</string>
+    <string name="your_checklist">Your checklist</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+</resources>
